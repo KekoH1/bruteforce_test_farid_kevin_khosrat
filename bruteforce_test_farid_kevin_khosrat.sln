@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bruteforce_test_farid_kevin_khosrat", "bruteforce_test_farid_kevin_khosrat\bruteforce_test_farid_kevin_khosrat.csproj", "{7A6D4950-6300-4F69-A475-A6F923230ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_bruteforce", "bruteforce_test_farid_kevin_khosrat\test_bruteforce\test_bruteforce.csproj", "{B48B1F2E-6B5A-4873-BE04-D2265AB7E4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A6D4950-6300-4F69-A475-A6F923230ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6D4950-6300-4F69-A475-A6F923230ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6D4950-6300-4F69-A475-A6F923230ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6D4950-6300-4F69-A475-A6F923230ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48B1F2E-6B5A-4873-BE04-D2265AB7E4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48B1F2E-6B5A-4873-BE04-D2265AB7E4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48B1F2E-6B5A-4873-BE04-D2265AB7E4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48B1F2E-6B5A-4873-BE04-D2265AB7E4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE9B79E-D9C2-49DA-BF57-7BC7B8E08B44}
+	EndGlobalSection
+EndGlobal
