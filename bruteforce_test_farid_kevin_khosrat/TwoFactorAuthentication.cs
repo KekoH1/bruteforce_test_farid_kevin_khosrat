@@ -1,7 +1,7 @@
 ﻿using OtpNet;
 using System;
 using System.Threading;
-using OtpNet;
+
 
 namespace Bruteforce_inlämningsuppgift
 {
